@@ -5,4 +5,10 @@ class Dog
   def name=(no)
     @name = no
   end
+  def breed
+    @breed
+  end
+  def breed=(species)
+    @breed = species
+  end
 end
