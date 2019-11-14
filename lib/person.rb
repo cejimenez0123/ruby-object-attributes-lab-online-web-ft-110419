@@ -1,8 +1,8 @@
 class Person
  def name=(no)
-   @name = no 
+   @name = no
  end
- def name 
+ def name
    @name
  end
 end
