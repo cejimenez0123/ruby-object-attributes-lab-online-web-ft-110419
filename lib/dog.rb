@@ -5,4 +5,3 @@ class Dog
   def name=(no)
     @name = no
 end
-
